@@ -1,2 +1,2 @@
 # rladies_johannesburg_rspatial
-This is a repo to store the presentation for the R-Ladies Johannesburg Workshop.
+This is the presentation for the R-Ladies Workshop on September 7th, 2020.
